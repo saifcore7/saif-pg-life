@@ -52,6 +52,5 @@ I appreciate your interest in contributing to this project! If you'd like to con
 
 ## License
 
-This project is licensed under the MIT License. Feel free to explore the code, adapt it to your own needs, or use it as a reference. For more information, see the [LICENSE]https://github.com/saifcore7/saif-pg-life/blob/main/LICENSE file.
-
+This project is licensed under the MIT License. Feel free to explore the code, adapt it to your own needs, or use it as a reference.
 If you have any questions or need further assistance, please don't hesitate to contact me. Happy coding!
